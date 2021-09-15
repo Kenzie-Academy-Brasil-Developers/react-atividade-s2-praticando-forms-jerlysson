@@ -1,0 +1,29 @@
+.container {
+  position: relative;
+  width: 60vw;
+  margin: 0 auto;
+  max-width: 420px;
+}
+.form {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.input {
+  width: 100%;
+  font-size: 1em;
+  margin: 0.3em 0 0.3em 0;
+  padding: 5px;
+}
+.password {
+  width: 42%;
+}
+h1.title {
+  font-size: 2em;
+  color: rgb(124, 124, 124);
+}
+.client {
+  color: lightblue;
+  position: absolute;
+  right: 0;
+}

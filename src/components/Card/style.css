@@ -1,0 +1,22 @@
+.card {
+  text-align: start;
+  width: 80vw;
+  max-width: 400px;
+  font-size: 1.5em;
+  margin: 0 auto;
+  color: rgb(221, 221, 221);
+  background-color: rgba(78, 78, 78, 0.411);
+}
+.title {
+  text-align: center;
+  font-weight: 400;
+  text-decoration: underline;
+  color: rgb(156, 156, 156);
+}
+.sub {
+  font-weight: 500;
+}
+.btn {
+  margin-left: calc(50% - 25px);
+  width: 50px;
+}
